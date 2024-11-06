@@ -18,7 +18,7 @@ require (
 	github.com/gballet/go-libpcsclite v0.0.0-20190607065134-2772fd86a8ff
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0
 	github.com/go-stack/stack v1.8.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.4
 	github.com/google/gofuzz v1.2.0
 	github.com/google/uuid v1.1.5
@@ -66,7 +66,6 @@ require (
 )
 
 require (
-	github.com/btcsuite/btcd v0.22.0-beta.0.20220111032746-97732e52810c
 	github.com/herumi/bls v1.37.0
 	github.com/influxdata/influxdb-client-go/v2 v2.12.3
 	golang.org/x/net v0.23.0
