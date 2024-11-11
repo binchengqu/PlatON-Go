@@ -14,7 +14,6 @@ require (
 	github.com/docker/docker v24.0.9+incompatible
 	github.com/dop251/goja v0.0.0-20211011172007-d99e4b8cbf48
 	github.com/fatih/color v1.7.0
-	github.com/fjl/memsize v0.0.0-20190710130421-bcb5799ab5e5
 	github.com/gballet/go-libpcsclite v0.0.0-20190607065134-2772fd86a8ff
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0
 	github.com/go-stack/stack v1.8.0
